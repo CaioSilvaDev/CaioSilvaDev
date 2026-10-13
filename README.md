@@ -3,7 +3,7 @@
 <br/>
 <h3> Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 
 <br/>
 
