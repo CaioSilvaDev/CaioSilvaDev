@@ -1,11 +1,13 @@
 # Caio Silva
 
-**Engenheiro de Software · IA & Dados · Python**
+**Engenheiro de IA · Python · Dados**
 
-Desenvolvedor com experiência em sistemas para o **serviço público**, hoje me especializando em **Engenharia de IA**: transformar dados e modelos em soluções reais.
+Especialista em levar IA para produção, de agentes autônomos a pipelines de dados. Experiência em sistemas para o **serviço público**, onde segurança e confiabilidade são obrigatórias.
 
-- 🏛️ Sistemas para o setor público: segurança, integrações e LGPD
-- 🤖 IA aplicada: LLMs, RAG e automação
-- 📊 Dados: pipelines, SQL e análise
+- 🤖 **Agentes de IA:** harness engineering, multi-agentes, tool use e MCP
+- 📐 **Spec-Driven Development:** especificação como fonte da verdade para desenvolvimento com IA
+- 🧠 **LLMs:** context engineering, prompt engineering, RAG e fine-tuning
+- ✅ **Qualidade:** evals, guardrails, observabilidade e LLMOps
+- 📊 **Dados:** pipelines, bancos vetoriais e SQL
 
-**Stack:** Python · SQL · Pandas · scikit-learn · FastAPI · PostgreSQL · Docker · Git
+**Stack:** Python · LangChain · LangGraph · Hugging Face · FastAPI · PostgreSQL · pgvector · Docker
