@@ -1,10 +1,11 @@
+# Caio Silva
 
-<h2>Olá!</h2>
-<br/>
-<h3> Sobre mim </h3>
+**Engenheiro de Software · IA & Dados · Python**
 
-- &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+Desenvolvedor com experiência em sistemas para o **serviço público**, hoje me especializando em **Engenharia de IA**: transformar dados e modelos em soluções reais.
 
-<br/>
+- 🏛️ Sistemas para o setor público: segurança, integrações e LGPD
+- 🤖 IA aplicada: LLMs, RAG e automação
+- 📊 Dados: pipelines, SQL e análise
 
-
+**Stack:** Python · SQL · Pandas · scikit-learn · FastAPI · PostgreSQL · Docker · Git
